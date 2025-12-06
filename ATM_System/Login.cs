@@ -57,8 +57,21 @@ namespace ATM_System
 
         }
 
-
-
-
+        private void Login_Load(object sender, EventArgs e)
+        {// Failed login
+            MessageBox.Show("These are the default Login Information\n" +
+                "you can use to test the System:\n" +
+                "\n\nDefault Accounts:\n" +
+                "1. Samuel Barker, 1234567890123456, 1234 \n" +
+                "2. Maria Garcia, 9876543210987654, 5678 \n" +
+                "3. Ethan Smith, 1111222233334444 , 0001\n" +
+                "4. Olivia Wang, 5555666677778888, 9999\n" +
+                "5. Liam Brown, 4321098765432109, 1122\n" +
+                "6. Sophia Lee,  6789012345678901, 3344\n" +
+                "7. Noah Martinez,2468135790864201, 5566\n" +
+                "8. Ava Taylor, 1357924680135792, 7788\n" +
+                "9. Jackson Wilson, 0987654321098765, 9012\n" +
+                "10. Chloe Anderson, 1020304050607080', 3456;", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
