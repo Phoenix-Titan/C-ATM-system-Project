@@ -1,6 +1,6 @@
 # Hotail ATM Machine Desktop Application
 
-This project build using **_C# and Winforms and Mircosoft SQL Server_** in the **_Visual Studio IDE_**. The Hotail ATM system is basic ATM system. It can perform basic ATM functionality like:  
+This project was builded using **_C# and Winforms and Mircosoft SQL Server_** in the **_Visual Studio IDE_**. The Hotail ATM system is basic ATM system. It can perform basic ATM functionality like:  
 
 > - Login user
 > - Logout user
