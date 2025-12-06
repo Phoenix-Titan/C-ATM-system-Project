@@ -10,7 +10,7 @@ namespace ATM_System.Data_repo
 {
     public class ATM_DatabaseRepo
     {
-        private static readonly string ConnectionString = "Data Source=PhoenixTitan\\SQLEXPRESS;Initial Catalog=ATM_Database;Integrated Security=True";
+        private static readonly string ConnectionString = "";
 
         //Methods
         public UserData VerifyUserAccountInDB(string CardNumber, string pinCode)
