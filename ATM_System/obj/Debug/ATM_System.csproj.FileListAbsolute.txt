@@ -1,0 +1,15 @@
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\bin\Debug\ATM_System.exe.config
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\bin\Debug\ATM_System.exe
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\bin\Debug\ATM_System.pdb
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.AssemblyReference.cache
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.ATM.resources
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.Properties.Resources.resources
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.GenerateResource.cache
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.CoreCompileInputs.cache
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.exe
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.pdb
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.exe.config
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.LandingPage.resources
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.Login.resources
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.DepositForm.resources
+C:\Users\Phoniex\Documents\C# Development\ATM_System\ATM_System\obj\Debug\ATM_System.WithDrawForm.resources

@@ -1,0 +1,7 @@
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
+echo "*.user" >> .gitignore
+echo "*.suo" >> .gitignore
+echo "Debug/" >> .gitignore
+echo "Release/" >> .gitignore
+echo ".vs/" >> .gitignore
